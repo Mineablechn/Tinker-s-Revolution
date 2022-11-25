@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "tconevo:alumite_ingot"
+  },
+  "result": {
+    "fluid": "tconevo:alumite",
+    "amount": 144
+  },
+  "temperature": 1000,
+  "time": 50
+}

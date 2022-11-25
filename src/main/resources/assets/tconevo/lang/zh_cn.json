@@ -1,0 +1,11 @@
+{
+  "item.tconstruct.blood_bucket": "一桶血",
+  "block.tconstruct.sky_slime": "天空黏液块",
+  "block.tconstruct.sky_slime.tooltip": "既是史莱姆也是蜂蜜",
+  "block.tconstruct.ichor_slime": "灵浆块",
+  "block.tconstruct.ichor_slime.tooltip": "与所有在灵浆旁边的黏性方块黏合",
+  "block.tconstruct.ender_slime": "末影黏液块",
+  "block.tconstruct.ender_slime.tooltip": "被推动时会粘住，但靠近粘性方块时不会粘住",
+  "block.tconstruct.blood_slime": "血块",
+  "block.tconstruct.blood_slime.tooltip": "有弹力，但不黏稠"
+}
